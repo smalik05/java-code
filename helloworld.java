@@ -6,4 +6,3 @@ public class HelloWorld {
     }
 
 }
-//This is hword java
